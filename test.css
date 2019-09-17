@@ -1,0 +1,41 @@
+body{
+  background-color: #fff;
+}
+
+.wrapper{
+  min-height: 100vh;
+  position: relative;
+}
+
+.header{
+  width: 100%;
+  background-color: #000;
+  color: #fff;
+  height: 20vh;
+}
+
+.header-logo{
+  float: left;
+  padding: 5px 0 0 5px;
+  font-size: 20px;
+  border-bottom: solid 5px #fff;
+}
+
+.main{
+  width: 100%;
+  background-color: #fff;
+  height: 60vh;
+}
+
+.footer{
+  width: 100%;
+  background-color: #000;
+  color: #fff;
+  height: 20vh;
+}
+
+.footer-logo{
+  float: right;
+  padding: 5px 5px;
+  font-size: 15px;
+}
